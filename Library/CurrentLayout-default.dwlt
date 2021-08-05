@@ -91,10 +91,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 707, y: 492}
-  m_MaxSize: {x: 18002, y: 14042}
+  m_MinSize: {x: 709, y: 492}
+  m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 127
+  controlID: 59
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -137,10 +137,10 @@ MonoBehaviour:
     y: 0
     width: 1116
     height: 731
-  m_MinSize: {x: 432, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
+  m_MinSize: {x: 433, y: 492}
+  m_MaxSize: {x: 14003, y: 14042}
   vertical: 1
-  controlID: 81
+  controlID: 60
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -215,10 +215,10 @@ MonoBehaviour:
     y: 436
     width: 1116
     height: 295
-  m_MinSize: {x: 432, y: 271}
-  m_MaxSize: {x: 14002, y: 10021}
+  m_MinSize: {x: 433, y: 271}
+  m_MaxSize: {x: 14003, y: 10021}
   vertical: 0
-  controlID: 82
+  controlID: 61
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -266,12 +266,12 @@ MonoBehaviour:
     height: 295
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
-  m_ActualView: {fileID: 14}
+  m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 14}
   - {fileID: 12}
-  m_Selected: 0
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -311,20 +311,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Resources/ScriptableObjects
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Resources/ScriptableObjects
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\UnityProjects\TestProject AmayaSoft
   m_LockTracker:
     m_IsLocked: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 54350000
-    m_LastClickedID: 13652
-    m_ExpandedIDs: 000000003c3500003e350000403500004235000044350000463500004835000000ca9a3b
+    scrollPos: {x: 0, y: 70}
+    m_SelectedIDs: 66350000
+    m_LastClickedID: 13670
+    m_ExpandedIDs: 00000000623500006435000066350000683500006a3500006c3500006e35000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -352,7 +352,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000003c3500003e3500004035000042350000443500004635000048350000
+    m_ExpandedIDs: 00000000623500006435000066350000683500006a3500006c3500006e350000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -379,7 +379,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c23d0000bc3d0000ba3d00001a350000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -485,20 +485,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Sprite
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Sprite
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\UnityProjects\TestProject AmayaSoft
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 38}
-    m_SelectedIDs: 40350000
-    m_LastClickedID: 13632
-    m_ExpandedIDs: 000000003c3500003e350000403500004235000044350000463500004835000000ca9a3b
+    scrollPos: {x: 0, y: 70}
+    m_SelectedIDs: 82350000
+    m_LastClickedID: 13698
+    m_ExpandedIDs: 00000000623500006435000066350000683500006a3500006c3500006e350000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -526,7 +526,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000003c3500003e3500004035000042350000443500004635000048350000
+    m_ExpandedIDs: 00000000623500006435000066350000683500006a3500006c3500006e350000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -551,8 +551,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs: e4350000
+    m_LastClickedInstanceID: 13796
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000c03d0000b23d0000b43d0000c23d0000b63d0000b83d000046350000
     m_RenameOverlay:
@@ -820,7 +820,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: c0b2ffffaef1ffff68fbffff50340000a2340000
+      m_ExpandedIDs: 68fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 

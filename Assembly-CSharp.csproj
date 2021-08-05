@@ -58,27 +58,26 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\CheckClick.cs" />
-     <Compile Include="Assets\Scripts\Circle.cs" />
      <Compile Include="Assets\Scripts\DOTeffects\Bounce.cs" />
      <Compile Include="Assets\Scripts\DOTeffects\EaseIn.cs" />
      <Compile Include="Assets\Scripts\DOTeffects\Fade.cs" />
      <Compile Include="Assets\Scripts\Data Scripts\Data.cs" />
+     <Compile Include="Assets\Scripts\Data Scripts\DataChoice.cs" />
      <Compile Include="Assets\Scripts\Data Scripts\Difficulty.cs" />
      <Compile Include="Assets\Scripts\Data Scripts\DifficultyList.cs" />
      <Compile Include="Assets\Scripts\Data Scripts\LetterDataList.cs" />
      <Compile Include="Assets\Scripts\Data Scripts\NumberDataList.cs" />
-     <Compile Include="Assets\Scripts\DataChoice.cs" />
-     <Compile Include="Assets\Scripts\DifficultyChoice.cs" />
-     <Compile Include="Assets\Scripts\EventCenter.cs" />
-     <Compile Include="Assets\Scripts\GameStatus.cs" />
-     <Compile Include="Assets\Scripts\GenerateData.cs" />
-     <Compile Include="Assets\Scripts\GeneratePanel.cs" />
-     <Compile Include="Assets\Scripts\LevelChange.cs" />
-     <Compile Include="Assets\Scripts\LoadScreen.cs" />
-     <Compile Include="Assets\Scripts\MouseClick.cs" />
-     <Compile Include="Assets\Scripts\QuestTarget.cs" />
-     <Compile Include="Assets\Scripts\StartGameProcess.cs" />
+     <Compile Include="Assets\Scripts\GameMechanics\CheckClick.cs" />
+     <Compile Include="Assets\Scripts\GameMechanics\EventCenter.cs" />
+     <Compile Include="Assets\Scripts\GameMechanics\GameStatusData.cs" />
+     <Compile Include="Assets\Scripts\GameMechanics\LevelChange.cs" />
+     <Compile Include="Assets\Scripts\GameMechanics\MouseClick.cs" />
+     <Compile Include="Assets\Scripts\LevelGeneration\Circle.cs" />
+     <Compile Include="Assets\Scripts\LevelGeneration\GenerateData.cs" />
+     <Compile Include="Assets\Scripts\LevelGeneration\GeneratePanel.cs" />
+     <Compile Include="Assets\Scripts\LevelGeneration\LoadScreen.cs" />
+     <Compile Include="Assets\Scripts\LevelGeneration\QuestTarget.cs" />
+     <Compile Include="Assets\Scripts\LevelGeneration\StartGameProcess.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/UnityProjects/TestProject AmayaSoft/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
