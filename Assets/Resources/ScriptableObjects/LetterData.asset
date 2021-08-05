@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46a96899285c87c469d6c37e215ba77a, type: 3}
+  m_Name: LetterData
+  m_EditorClassIdentifier: 
+  _letterData:
+  - _name: A
+    _image: {fileID: 4963718625464178563, guid: 8c2875eb2ef5dae46afb16f9d160dd7b,
+      type: 3}
+  - _name: B
+    _image: {fileID: 7783457984840754399, guid: 8c2875eb2ef5dae46afb16f9d160dd7b,
+      type: 3}
+  - _name: C
+    _image: {fileID: 3234300448368640894, guid: 8c2875eb2ef5dae46afb16f9d160dd7b,
+      type: 3}
+  - _name: D
+    _image: {fileID: 7911670913450602933, guid: 8c2875eb2ef5dae46afb16f9d160dd7b,
+      type: 3}
+  - _name: E
+    _image: {fileID: 4652326554734856401, guid: 8c2875eb2ef5dae46afb16f9d160dd7b,
+      type: 3}
+  - _name: F
+    _image: {fileID: -6426668015567183463, guid: 8c2875eb2ef5dae46afb16f9d160dd7b,
+      type: 3}
+  - _name: G
+    _image: {fileID: 216406037199867053, guid: 8c2875eb2ef5dae46afb16f9d160dd7b, type: 3}
+  - _name: H
+    _image: {fileID: -8235857483100294123, guid: 8c2875eb2ef5dae46afb16f9d160dd7b,
+      type: 3}
+  - _name: I
+    _image: {fileID: -3541686595128163680, guid: 8c2875eb2ef5dae46afb16f9d160dd7b,
+      type: 3}
+  - _name: J
+    _image: {fileID: -2756605603065543306, guid: 8c2875eb2ef5dae46afb16f9d160dd7b,
+      type: 3}
+  - _name: K
+    _image: {fileID: -1127063002332224934, guid: 8c2875eb2ef5dae46afb16f9d160dd7b,
+      type: 3}
+  - _name: L
+    _image: {fileID: -5901097786099144959, guid: 8c2875eb2ef5dae46afb16f9d160dd7b,
+      type: 3}
+  - _name: M
+    _image: {fileID: 3295844289267200183, guid: 8c2875eb2ef5dae46afb16f9d160dd7b,
+      type: 3}
+  - _name: N
+    _image: {fileID: 7112752472869403061, guid: a86ad25e89d2a3e468d5c386dbda1ec4,
+      type: 3}
+  - _name: O
+    _image: {fileID: 5433449995169814141, guid: a86ad25e89d2a3e468d5c386dbda1ec4,
+      type: 3}
+  - _name: P
+    _image: {fileID: -4252152113809563852, guid: a86ad25e89d2a3e468d5c386dbda1ec4,
+      type: 3}
+  - _name: Q
+    _image: {fileID: -4447791616812998045, guid: a86ad25e89d2a3e468d5c386dbda1ec4,
+      type: 3}
+  - _name: R
+    _image: {fileID: -6342808464625005154, guid: a86ad25e89d2a3e468d5c386dbda1ec4,
+      type: 3}
+  - _name: S
+    _image: {fileID: 8083504644574312765, guid: a86ad25e89d2a3e468d5c386dbda1ec4,
+      type: 3}
+  - _name: T
+    _image: {fileID: -4461999128152558772, guid: a86ad25e89d2a3e468d5c386dbda1ec4,
+      type: 3}
+  - _name: U
+    _image: {fileID: 3270655726746431581, guid: a86ad25e89d2a3e468d5c386dbda1ec4,
+      type: 3}
+  - _name: V
+    _image: {fileID: -2983290644488427326, guid: a86ad25e89d2a3e468d5c386dbda1ec4,
+      type: 3}
+  - _name: W
+    _image: {fileID: -9165466868132007793, guid: a86ad25e89d2a3e468d5c386dbda1ec4,
+      type: 3}
+  - _name: X
+    _image: {fileID: 4461586319009975920, guid: a86ad25e89d2a3e468d5c386dbda1ec4,
+      type: 3}
+  - _name: Y
+    _image: {fileID: -5001085640463096552, guid: 3a8ecadfb1261fb4093884997a01bcaf,
+      type: 3}
+  - _name: Z
+    _image: {fileID: 3539555106843919260, guid: 3a8ecadfb1261fb4093884997a01bcaf,
+      type: 3}
